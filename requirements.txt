@@ -4,5 +4,5 @@ pandas
 numpy
 PyYAML
 
-### local packages -
+### local packages yes-
 # -e . # << uncomment this to install from setup.py
